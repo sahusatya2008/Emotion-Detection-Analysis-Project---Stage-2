@@ -1,4 +1,4 @@
-# EMOTION DETECTION PROGRAM BY SATYA N SAHU
+# EMOTION DETECTION PROGRAM BY SATYA Narayan SAHU
 
 ## Description
 
@@ -268,7 +268,7 @@ print(f"Emotion: {emotion}, Confidence: {confidence}")
 
 ## License
 
-This project is proprietary software developed by Satya N Sahu. All rights reserved.
+This project is proprietary software developed by Satya Narayan Sahu. All rights reserved.
 
 ## Contributing
 
