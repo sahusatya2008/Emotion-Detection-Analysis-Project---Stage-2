@@ -1,5 +1,5 @@
 # EMOTION DETECTION PROGRAM BY SATYA Narayan SAHU
-
+**Ps
 ## Description
 
 This is a comprehensive ultra-precise emotion detection and paranormal activity recognition program developed by Satya N Sahu. The program utilizes advanced computer vision and machine learning techniques to analyze facial expressions in real-time through a webcam feed. Beyond standard emotion recognition, it includes sophisticated paranormal detection algorithms that monitor for anomalous activities, invisible presences, energy fluctuations, and temporal anomalies.
@@ -71,8 +71,8 @@ The system employs multi-threaded processing for optimal performance, real-time 
 1. **Clone or Download the Repository**
    ```bash
    # If using git (assuming repository exists)
-   git clone [repository_url]
-   cd [repository_directory]
+   git clone https://github.com/sahusatya2008/Emotion-Detection-Analysis-Project---Stage-2.git
+   cd [repository_directory or folder]
    ```
 
 2. **Install Python Dependencies**
