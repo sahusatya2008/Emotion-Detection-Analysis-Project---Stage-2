@@ -1,5 +1,5 @@
 # EMOTION DETECTION SYSTEM STAGE II
-**Psychological Study by Tathoi Mondal and Designed & Developed by Satya Narayan Sahu**
+**Psychological Study, Designed & Developed by Satya Narayan Sahu**
 ## Description
 
 This is a comprehensive ultra-precise emotion detection and paranormal activity recognition program developed by Satya N Sahu. The program utilizes advanced computer vision and machine learning techniques to analyze facial expressions in real-time through a webcam feed. Beyond standard emotion recognition, it includes sophisticated paranormal detection algorithms that monitor for anomalous activities, invisible presences, energy fluctuations, and temporal anomalies.
